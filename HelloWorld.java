@@ -3,6 +3,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
                 System.out.println("update online");
 	}
+	private int count;
 }
 // LouraD修改
 // Dss修改
